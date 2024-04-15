@@ -3,7 +3,7 @@
 ## El Bot ya no esta funcional debido a las actualizaciones de WhatsApp y ya no recibira mas actualizaciones
 
 ### `NECESITAS AYUDA?, CONTACTAME`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/+59177044967" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 ### `GRUPOS OFICIALES DEL BOT`
 [![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ)
@@ -17,7 +17,7 @@
 [![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_9-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ef89aIuOLeD3Fa2sYmKwp7)
 [![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_10-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/C2WYb1hiiijCI13QSUZLM9)
 ### `AJUSTES`
-- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/BrunoSobrino/ShadowBotV3/blob/master/config.js)
+- CAMBIAR NÚMERO DE PROPIETARIO [+59177044967](https://github.com/BrunoSobrino/ShadowBotV3/blob/master/config.js)
 
 ### `Video tutorial para instalar el Bot`
 <a href="https://www.youtube.com/watch?v=dP8-aaHinBE&t=55s"><img height="30" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
